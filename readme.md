@@ -4,7 +4,7 @@
 
 ## Real-time Data Ingestion System for AdvertiseX in GCP (All Sources)
 
-I am proposing this architecture for the AdvertiseX data engineering case study which addresses the case study requirements such as scalable data ingestion, data processing, data storage, and error handling.
+I am proposing this architecture based on GCP platform for the AdvertiseX data engineering case study which addresses the case study requirements such as scalable data ingestion, data processing, data storage, and error handling.
 
 ### Data Sources and Formats Assumptions:
 
