@@ -62,7 +62,7 @@ Deriving new fields like time deltas between impressions, clicks, and conversion
 
 - **Correlate Data:** Employ Window and Join transforms to correlate data across topics. 
 
-Join impressions with clicks or conversion based on user ID, ad ID, ensuring the click timestamp falls within a specific window after the impression timestamp or to compute correlation coefficients to understand how these events are related and whether there's any causal relationship between them..
+Join impressions with clicks or conversion based on user ID, ad ID, ensuring the click timestamp falls within a specific window after the impression timestamp or to compute correlation coefficients to understand how these events are related and whether there's any causal relationship between them.
 
 ### 3. Error Handling and Alerting Proposed Method: 
 
